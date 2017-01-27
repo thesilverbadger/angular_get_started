@@ -1,1 +1,1 @@
-docker run -d -v /Users/tom/Code/pluralsight/angular_getting_started:/usr/share/nginx/html -p 80:80 nginx
+docker run -d -v /Users/tom/Code/pluralsight/angular_get_started:/usr/share/nginx/html -p 80:80 nginx
